@@ -1,0 +1,394 @@
+INFO: 2015/12/02 21:46:40 pubnub.go:369: ****************************************
+INFO: 2015/12/02 21:46:40 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/02 21:46:40 pubnub.go:321: OS: windows
+INFO: 2015/12/02 21:46:40 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/02 21:46:40 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/02 21:46:40 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/02 21:47:10 pubnub.go:960: Publish: json: "aaa", encoded: %22aaa%22
+INFO: 2015/12/02 21:47:10 pubnub.go:3102: url: http://pubsub.pubnub.com/publish/pub-c-7d74a6b7-c86a-48eb-b70a-8d0007b78121/sub-c-dc6faa4e-882d-11e5-a2e7-0619f8945a4f/0/golife.wgs.channel/0/%22aaa%22?pnsdk=PubNub-Go%2F3.6.3&uuid=1c806d5a40289a3480582c7693b25497
+INFO: 2015/12/02 21:47:10 pubnub.go:3273: MaxIdleConnsPerHost set to: 20
+INFO: 2015/12/02 21:47:10 pubnub.go:3224: non subscribeConn set
+INFO: 2015/12/02 21:47:11 pubnub.go:3346: opaqueURL /publish/pub-c-7d74a6b7-c86a-48eb-b70a-8d0007b78121/sub-c-dc6faa4e-882d-11e5-a2e7-0619f8945a4f/0/golife.wgs.channel/0/%22aaa%22?pnsdk=PubNub-Go%2F3.6.3&uuid=1c806d5a40289a3480582c7693b25497
+INFO: 2015/12/02 21:47:11 pubnub.go:3347: response: [1,"Sent","14490676326422289"]
+INFO: 2015/12/02 21:49:24 pubnub.go:369: ****************************************
+INFO: 2015/12/02 21:49:24 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/02 21:49:24 pubnub.go:321: OS: windows
+INFO: 2015/12/02 21:49:24 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/02 21:49:24 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/02 21:49:24 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/02 21:49:32 pubnub.go:960: Publish: json: "aaa", encoded: %22aaa%22
+INFO: 2015/12/02 21:49:32 pubnub.go:3102: url: http://pubsub.pubnub.com/publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22aaa%22?pnsdk=PubNub-Go%2F3.6.3&uuid=3e56f412409e1cbf806619219898eaf8
+INFO: 2015/12/02 21:49:32 pubnub.go:3273: MaxIdleConnsPerHost set to: 20
+INFO: 2015/12/02 21:49:32 pubnub.go:3224: non subscribeConn set
+INFO: 2015/12/02 21:49:33 pubnub.go:3346: opaqueURL /publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22aaa%22?pnsdk=PubNub-Go%2F3.6.3&uuid=3e56f412409e1cbf806619219898eaf8
+INFO: 2015/12/02 21:49:33 pubnub.go:3347: response: [1,"Sent","14490677744925188"]
+INFO: 2015/12/02 21:55:43 pubnub.go:960: Publish: json: "aaa", encoded: %22aaa%22
+INFO: 2015/12/02 21:55:43 pubnub.go:3102: url: http://pubsub.pubnub.com/publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22aaa%22?pnsdk=PubNub-Go%2F3.6.3&uuid=3e56f412409e1cbf806619219898eaf8
+INFO: 2015/12/02 21:55:43 pubnub.go:3224: non subscribeConn set
+INFO: 2015/12/02 21:55:43 pubnub.go:3346: opaqueURL /publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22aaa%22?pnsdk=PubNub-Go%2F3.6.3&uuid=3e56f412409e1cbf806619219898eaf8
+INFO: 2015/12/02 21:55:43 pubnub.go:3347: response: [1,"Sent","14490681450155663"]
+INFO: 2015/12/02 21:59:43 pubnub.go:369: ****************************************
+INFO: 2015/12/02 21:59:43 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/02 21:59:43 pubnub.go:321: OS: windows
+INFO: 2015/12/02 21:59:43 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/02 21:59:43 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/02 21:59:43 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/02 22:01:36 pubnub.go:960: Publish: json: "aaa", encoded: %22aaa%22
+INFO: 2015/12/02 22:01:36 pubnub.go:3102: url: http://pubsub.pubnub.com/publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22aaa%22?pnsdk=PubNub-Go%2F3.6.3&uuid=6502eb3c40076a6d80891edd65e80725
+INFO: 2015/12/02 22:01:36 pubnub.go:3273: MaxIdleConnsPerHost set to: 20
+INFO: 2015/12/02 22:01:36 pubnub.go:3224: non subscribeConn set
+INFO: 2015/12/02 22:01:36 pubnub.go:3346: opaqueURL /publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22aaa%22?pnsdk=PubNub-Go%2F3.6.3&uuid=6502eb3c40076a6d80891edd65e80725
+INFO: 2015/12/02 22:01:36 pubnub.go:3347: response: [1,"Sent","14490684978538504"]
+INFO: 2015/12/02 22:53:57 pubnub.go:369: ****************************************
+INFO: 2015/12/02 22:53:57 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/02 22:53:57 pubnub.go:321: OS: windows
+INFO: 2015/12/02 22:53:57 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/02 22:53:57 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/02 22:53:57 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/02 22:54:15 pubnub.go:960: Publish: json: "{\"Sp_id\":null,\"Order_id\":38,\"Order_customer_name\":\"Keira Knightley\"}", encoded: %22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:38,%5C%22Order_customer_name%5C%22:%5C%22Keira%20Knightley%5C%22%7D%22
+INFO: 2015/12/02 22:54:15 pubnub.go:3102: url: http://pubsub.pubnub.com/publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:38,%5C%22Order_customer_name%5C%22:%5C%22Keira%20Knightley%5C%22%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=412e720040a948a0806d5fa005243a2b
+INFO: 2015/12/02 22:54:15 pubnub.go:3273: MaxIdleConnsPerHost set to: 20
+INFO: 2015/12/02 22:54:16 pubnub.go:3224: non subscribeConn set
+INFO: 2015/12/02 22:54:16 pubnub.go:3346: opaqueURL /publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:38,%5C%22Order_customer_name%5C%22:%5C%22Keira%20Knightley%5C%22%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=412e720040a948a0806d5fa005243a2b
+INFO: 2015/12/02 22:54:16 pubnub.go:3347: response: [1,"Sent","14490716578808553"]
+INFO: 2015/12/02 22:55:30 pubnub.go:960: Publish: json: "{\"Sp_id\":[3],\"Order_id\":39,\"Order_customer_name\":\"Keira Knightley\"}", encoded: %22%7B%5C%22Sp_id%5C%22:%5B3%5D,%5C%22Order_id%5C%22:39,%5C%22Order_customer_name%5C%22:%5C%22Keira%20Knightley%5C%22%7D%22
+INFO: 2015/12/02 22:55:30 pubnub.go:3102: url: http://pubsub.pubnub.com/publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:%5B3%5D,%5C%22Order_id%5C%22:39,%5C%22Order_customer_name%5C%22:%5C%22Keira%20Knightley%5C%22%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=412e720040a948a0806d5fa005243a2b
+INFO: 2015/12/02 22:55:30 pubnub.go:3224: non subscribeConn set
+INFO: 2015/12/02 22:55:30 pubnub.go:3346: opaqueURL /publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:%5B3%5D,%5C%22Order_id%5C%22:39,%5C%22Order_customer_name%5C%22:%5C%22Keira%20Knightley%5C%22%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=412e720040a948a0806d5fa005243a2b
+INFO: 2015/12/02 22:55:30 pubnub.go:3347: response: [1,"Sent","14490717323446309"]
+INFO: 2015/12/02 23:08:23 pubnub.go:369: ****************************************
+INFO: 2015/12/02 23:08:23 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/02 23:08:23 pubnub.go:321: OS: windows
+INFO: 2015/12/02 23:08:23 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/02 23:08:23 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/02 23:08:23 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/02 23:08:43 pubnub.go:960: Publish: json: "{\"Sp_id\":[3],\"Order_id\":40,\"Cust_name\":\"Keira Knightley\",\"Start_time\":\"2015-10-03 10:00:52\",\"Finish_time\":\"2015-10-03 11:00:52\",\"Cust_phone\":\"081123123123\",\"Address\":\"Jln XYZ, inputan user\",\"Order_detail\":\"Hair Coloring - Dye color by MATRIX:Dark Red(Kode99833)\",\"Special_note\":\"Rambut saya agak kribo, tapi pingin di ribonding\",\"Estimated_price\":0,\"Payment_method\":1}", encoded: %22%7B%5C%22Sp_id%5C%22:%5B3%5D,%5C%22Order_id%5C%22:40,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:0,%5C%22Payment_method%5C%22:1%7D%22
+INFO: 2015/12/02 23:08:43 pubnub.go:3102: url: http://pubsub.pubnub.com/publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:%5B3%5D,%5C%22Order_id%5C%22:40,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:0,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=420b20c840cb4f77802d1a7a8f39957a
+INFO: 2015/12/02 23:08:43 pubnub.go:3273: MaxIdleConnsPerHost set to: 20
+INFO: 2015/12/02 23:08:43 pubnub.go:3224: non subscribeConn set
+INFO: 2015/12/02 23:08:43 pubnub.go:3346: opaqueURL /publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:%5B3%5D,%5C%22Order_id%5C%22:40,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:0,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=420b20c840cb4f77802d1a7a8f39957a
+INFO: 2015/12/02 23:08:43 pubnub.go:3347: response: [1,"Sent","14490725256611679"]
+INFO: 2015/12/02 23:54:18 pubnub.go:369: ****************************************
+INFO: 2015/12/02 23:54:18 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/02 23:54:18 pubnub.go:321: OS: windows
+INFO: 2015/12/02 23:54:18 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/02 23:54:18 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/02 23:54:18 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/02 23:57:56 pubnub.go:369: ****************************************
+INFO: 2015/12/02 23:57:56 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/02 23:57:56 pubnub.go:321: OS: windows
+INFO: 2015/12/02 23:57:56 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/02 23:57:56 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/02 23:57:56 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 00:01:21 pubnub.go:369: ****************************************
+INFO: 2015/12/03 00:01:21 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/03 00:01:21 pubnub.go:321: OS: windows
+INFO: 2015/12/03 00:01:21 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/03 00:01:21 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 00:01:21 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 00:10:03 pubnub.go:369: ****************************************
+INFO: 2015/12/03 00:10:03 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/03 00:10:03 pubnub.go:321: OS: windows
+INFO: 2015/12/03 00:10:03 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/03 00:10:03 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 00:10:03 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 00:10:41 pubnub.go:960: Publish: json: "{\"Sp_id\":[3],\"Order_id\":41,\"Cust_name\":\"Keira Knightley\",\"Start_time\":\"2015-10-03 10:00:52\",\"Finish_time\":\"2015-10-03 11:00:52\",\"Cust_phone\":\"081123123123\",\"Address\":\"Jln XYZ, inputan user\",\"Order_detail\":\"Hair Coloring - Dye color by MATRIX:Dark Red(Kode99833)\",\"Special_note\":\"Rambut saya agak kribo, tapi pingin di ribonding\",\"Estimated_price\":0,\"Payment_method\":1}", encoded: %22%7B%5C%22Sp_id%5C%22:%5B3%5D,%5C%22Order_id%5C%22:41,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:0,%5C%22Payment_method%5C%22:1%7D%22
+INFO: 2015/12/03 00:10:41 pubnub.go:3102: url: http://pubsub.pubnub.com/publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:%5B3%5D,%5C%22Order_id%5C%22:41,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:0,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=aa465cae40c5cc8180bb6e79ca62ece2
+INFO: 2015/12/03 00:10:41 pubnub.go:3273: MaxIdleConnsPerHost set to: 20
+INFO: 2015/12/03 00:10:41 pubnub.go:3224: non subscribeConn set
+INFO: 2015/12/03 00:10:41 pubnub.go:3346: opaqueURL /publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:%5B3%5D,%5C%22Order_id%5C%22:41,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:0,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=aa465cae40c5cc8180bb6e79ca62ece2
+INFO: 2015/12/03 00:10:41 pubnub.go:3347: response: [1,"Sent","14490762438474965"]
+INFO: 2015/12/03 13:26:46 pubnub.go:369: ****************************************
+INFO: 2015/12/03 13:26:46 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/03 13:26:46 pubnub.go:321: OS: windows
+INFO: 2015/12/03 13:26:46 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/03 13:26:46 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 13:26:46 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 13:26:53 pubnub.go:960: Publish: json: "{\"Sp_id\":[3],\"Order_id\":42,\"Cust_name\":\"Keira Knightley\",\"Start_time\":\"2015-10-03 10:00:52\",\"Finish_time\":\"2015-10-03 11:00:52\",\"Cust_phone\":\"081123123123\",\"Address\":\"Jln XYZ, inputan user\",\"Order_detail\":\"Hair Coloring - Dye color by MATRIX:Dark Red(Kode99833)\",\"Special_note\":\"Rambut saya agak kribo, tapi pingin di ribonding\",\"Estimated_price\":0,\"Payment_method\":1}", encoded: %22%7B%5C%22Sp_id%5C%22:%5B3%5D,%5C%22Order_id%5C%22:42,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:0,%5C%22Payment_method%5C%22:1%7D%22
+INFO: 2015/12/03 13:26:53 pubnub.go:3102: url: http://pubsub.pubnub.com/publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:%5B3%5D,%5C%22Order_id%5C%22:42,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:0,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=2ade246240d565288019564a9e5aa167
+INFO: 2015/12/03 13:26:53 pubnub.go:3273: MaxIdleConnsPerHost set to: 20
+INFO: 2015/12/03 13:26:53 pubnub.go:3224: non subscribeConn set
+INFO: 2015/12/03 13:26:54 pubnub.go:3346: opaqueURL /publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:%5B3%5D,%5C%22Order_id%5C%22:42,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:0,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=2ade246240d565288019564a9e5aa167
+INFO: 2015/12/03 13:26:54 pubnub.go:3347: response: [1,"Sent","14491240146505908"]
+INFO: 2015/12/03 13:31:00 pubnub.go:960: Publish: json: "{\"Sp_id\":null,\"Order_id\":43,\"Cust_name\":\"Keira Knightley\",\"Start_time\":\"2015-10-03 10:00:52\",\"Finish_time\":\"2015-10-03 11:00:52\",\"Cust_phone\":\"081123123123\",\"Address\":\"Jln XYZ, inputan user\",\"Order_detail\":\"Hair Coloring - Dye color by MATRIX:Dark Red(Kode99833)\",\"Special_note\":\"Rambut saya agak kribo, tapi pingin di ribonding\",\"Estimated_price\":500000,\"Payment_method\":1}", encoded: %22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:43,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22
+INFO: 2015/12/03 13:31:00 pubnub.go:3102: url: http://pubsub.pubnub.com/publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:43,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=2ade246240d565288019564a9e5aa167
+INFO: 2015/12/03 13:31:00 pubnub.go:3224: non subscribeConn set
+INFO: 2015/12/03 13:31:00 pubnub.go:3346: opaqueURL /publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:43,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=2ade246240d565288019564a9e5aa167
+INFO: 2015/12/03 13:31:00 pubnub.go:3347: response: [1,"Sent","14491242616980331"]
+INFO: 2015/12/03 13:33:25 pubnub.go:369: ****************************************
+INFO: 2015/12/03 13:33:25 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/03 13:33:25 pubnub.go:321: OS: windows
+INFO: 2015/12/03 13:33:25 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/03 13:33:25 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 13:33:25 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 13:33:34 pubnub.go:960: Publish: json: "{\"Sp_id\":null,\"Order_id\":44,\"Cust_name\":\"Keira Knightley\",\"Start_time\":\"2015-10-03 10:00:52\",\"Finish_time\":\"2015-10-03 11:00:52\",\"Cust_phone\":\"081123123123\",\"Address\":\"Jln XYZ, inputan user\",\"Order_detail\":\"Hair Coloring - Dye color by MATRIX:Dark Red(Kode99833)\",\"Special_note\":\"Rambut saya agak kribo, tapi pingin di ribonding\",\"Estimated_price\":500000,\"Payment_method\":1}", encoded: %22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:44,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22
+INFO: 2015/12/03 13:33:34 pubnub.go:3102: url: http://pubsub.pubnub.com/publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:44,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=c9895f2940a75eca80bee91bc7858dcd
+INFO: 2015/12/03 13:33:34 pubnub.go:3273: MaxIdleConnsPerHost set to: 20
+INFO: 2015/12/03 13:33:34 pubnub.go:3224: non subscribeConn set
+INFO: 2015/12/03 13:33:34 pubnub.go:3346: opaqueURL /publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:44,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=c9895f2940a75eca80bee91bc7858dcd
+INFO: 2015/12/03 13:33:34 pubnub.go:3347: response: [1,"Sent","14491244158613671"]
+INFO: 2015/12/03 13:51:03 pubnub.go:369: ****************************************
+INFO: 2015/12/03 13:51:03 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/03 13:51:03 pubnub.go:321: OS: windows
+INFO: 2015/12/03 13:51:03 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/03 13:51:03 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 13:51:03 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 13:51:09 pubnub.go:960: Publish: json: "{\"Sp_id\":null,\"Order_id\":45,\"Cust_name\":\"Keira Knightley\",\"Start_time\":\"2015-10-03 10:00:52\",\"Finish_time\":\"2015-10-03 11:00:52\",\"Cust_phone\":\"081123123123\",\"Address\":\"Jln XYZ, inputan user\",\"Order_detail\":\"Hair Coloring - Dye color by MATRIX:Dark Red(Kode99833)\",\"Special_note\":\"Rambut saya agak kribo, tapi pingin di ribonding\",\"Estimated_price\":500000,\"Payment_method\":1}", encoded: %22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:45,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22
+INFO: 2015/12/03 13:51:09 pubnub.go:3102: url: http://pubsub.pubnub.com/publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:45,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=78d95577401be27380b9d32a1c78c90e
+INFO: 2015/12/03 13:51:09 pubnub.go:3273: MaxIdleConnsPerHost set to: 20
+INFO: 2015/12/03 13:51:09 pubnub.go:3224: non subscribeConn set
+INFO: 2015/12/03 13:51:09 pubnub.go:3346: opaqueURL /publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:45,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=78d95577401be27380b9d32a1c78c90e
+INFO: 2015/12/03 13:51:09 pubnub.go:3347: response: [1,"Sent","14491254705573641"]
+INFO: 2015/12/03 14:02:22 pubnub.go:960: Publish: json: "{\"Sp_id\":null,\"Order_id\":46,\"Cust_name\":\"Keira Knightley\",\"Start_time\":\"2015-10-03 10:00:52\",\"Finish_time\":\"2015-10-03 11:00:52\",\"Cust_phone\":\"081123123123\",\"Address\":\"Jln XYZ, inputan user\",\"Order_detail\":\"Hair Coloring - Dye color by MATRIX:Dark Red(Kode99833)\",\"Special_note\":\"Rambut saya agak kribo, tapi pingin di ribonding\",\"Estimated_price\":500000,\"Payment_method\":1}", encoded: %22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:46,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22
+INFO: 2015/12/03 14:02:22 pubnub.go:3102: url: http://pubsub.pubnub.com/publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:46,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=78d95577401be27380b9d32a1c78c90e
+INFO: 2015/12/03 14:02:22 pubnub.go:3224: non subscribeConn set
+INFO: 2015/12/03 14:02:22 pubnub.go:3346: opaqueURL /publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:46,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=78d95577401be27380b9d32a1c78c90e
+INFO: 2015/12/03 14:02:22 pubnub.go:3347: response: [1,"Sent","14491261436635023"]
+INFO: 2015/12/03 14:02:34 pubnub.go:369: ****************************************
+INFO: 2015/12/03 14:02:34 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/03 14:02:34 pubnub.go:321: OS: windows
+INFO: 2015/12/03 14:02:34 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/03 14:02:34 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 14:02:34 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 14:02:37 pubnub.go:960: Publish: json: "{\"Sp_id\":null,\"Order_id\":47,\"Cust_name\":\"Keira Knightley\",\"Start_time\":\"2015-10-03 10:00:52\",\"Finish_time\":\"2015-10-03 11:00:52\",\"Cust_phone\":\"081123123123\",\"Address\":\"Jln XYZ, inputan user\",\"Order_detail\":\"Hair Coloring - Dye color by MATRIX:Dark Red(Kode99833)\",\"Special_note\":\"Rambut saya agak kribo, tapi pingin di ribonding\",\"Estimated_price\":500000,\"Payment_method\":1}", encoded: %22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:47,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22
+INFO: 2015/12/03 14:02:37 pubnub.go:3102: url: http://pubsub.pubnub.com/publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:47,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=c45cd59040a443c2805b440c883ada83
+INFO: 2015/12/03 14:02:37 pubnub.go:3273: MaxIdleConnsPerHost set to: 20
+INFO: 2015/12/03 14:02:37 pubnub.go:3224: non subscribeConn set
+INFO: 2015/12/03 14:02:37 pubnub.go:3346: opaqueURL /publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:47,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=c45cd59040a443c2805b440c883ada83
+INFO: 2015/12/03 14:02:37 pubnub.go:3347: response: [1,"Sent","14491261590741173"]
+INFO: 2015/12/03 14:03:14 pubnub.go:960: Publish: json: "{\"Sp_id\":null,\"Order_id\":48,\"Cust_name\":\"Keira Knightley\",\"Start_time\":\"2015-10-03 10:00:52\",\"Finish_time\":\"2015-10-03 11:00:52\",\"Cust_phone\":\"081123123123\",\"Address\":\"Jln XYZ, inputan user\",\"Order_detail\":\"Hair Coloring - Dye color by MATRIX:Dark Red(Kode99833)\",\"Special_note\":\"Rambut saya agak kribo, tapi pingin di ribonding\",\"Estimated_price\":500000,\"Payment_method\":1}", encoded: %22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:48,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22
+INFO: 2015/12/03 14:03:14 pubnub.go:3102: url: http://pubsub.pubnub.com/publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:48,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=c45cd59040a443c2805b440c883ada83
+INFO: 2015/12/03 14:03:14 pubnub.go:3224: non subscribeConn set
+INFO: 2015/12/03 14:03:15 pubnub.go:3346: opaqueURL /publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:48,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=c45cd59040a443c2805b440c883ada83
+INFO: 2015/12/03 14:03:15 pubnub.go:3347: response: [1,"Sent","14491261961460099"]
+INFO: 2015/12/03 14:03:57 pubnub.go:960: Publish: json: "{\"Sp_id\":null,\"Order_id\":49,\"Cust_name\":\"Keira Knightley\",\"Start_time\":\"2015-10-03 10:00:52\",\"Finish_time\":\"2015-10-03 11:00:52\",\"Cust_phone\":\"081123123123\",\"Address\":\"Jln XYZ, inputan user\",\"Order_detail\":\"Hair Coloring - Dye color by MATRIX:Dark Red(Kode99833)\",\"Special_note\":\"Rambut saya agak kribo, tapi pingin di ribonding\",\"Estimated_price\":500000,\"Payment_method\":1}", encoded: %22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:49,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22
+INFO: 2015/12/03 14:03:57 pubnub.go:3102: url: http://pubsub.pubnub.com/publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:49,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=c45cd59040a443c2805b440c883ada83
+INFO: 2015/12/03 14:03:57 pubnub.go:3224: non subscribeConn set
+INFO: 2015/12/03 14:03:58 pubnub.go:3346: opaqueURL /publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:49,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=c45cd59040a443c2805b440c883ada83
+INFO: 2015/12/03 14:03:58 pubnub.go:3347: response: [1,"Sent","14491262392255082"]
+INFO: 2015/12/03 14:06:01 pubnub.go:960: Publish: json: "{\"Sp_id\":[3],\"Order_id\":50,\"Cust_name\":\"Keira Knightley\",\"Start_time\":\"2015-10-03 10:00:52\",\"Finish_time\":\"2015-10-03 11:00:52\",\"Cust_phone\":\"081123123123\",\"Address\":\"Jln XYZ, inputan user\",\"Order_detail\":\"Hair Coloring - Dye color by MATRIX:Dark Red(Kode99833)\",\"Special_note\":\"Rambut saya agak kribo, tapi pingin di ribonding\",\"Estimated_price\":500000,\"Payment_method\":1}", encoded: %22%7B%5C%22Sp_id%5C%22:%5B3%5D,%5C%22Order_id%5C%22:50,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22
+INFO: 2015/12/03 14:06:01 pubnub.go:3102: url: http://pubsub.pubnub.com/publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:%5B3%5D,%5C%22Order_id%5C%22:50,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=c45cd59040a443c2805b440c883ada83
+INFO: 2015/12/03 14:06:01 pubnub.go:3224: non subscribeConn set
+INFO: 2015/12/03 14:06:02 pubnub.go:3346: opaqueURL /publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:%5B3%5D,%5C%22Order_id%5C%22:50,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=c45cd59040a443c2805b440c883ada83
+INFO: 2015/12/03 14:06:02 pubnub.go:3347: response: [1,"Sent","14491263631680733"]
+INFO: 2015/12/03 14:06:44 pubnub.go:960: Publish: json: "{\"Sp_id\":[3],\"Order_id\":51,\"Cust_name\":\"Keira Knightley\",\"Start_time\":\"2015-10-03 10:00:52\",\"Finish_time\":\"2015-10-03 11:00:52\",\"Cust_phone\":\"081123123123\",\"Address\":\"Jln XYZ, inputan user\",\"Order_detail\":\"Hair Coloring - Dye color by MATRIX:Dark Red(Kode99833)\",\"Special_note\":\"Rambut saya agak kribo, tapi pingin di ribonding\",\"Estimated_price\":500000,\"Payment_method\":1}", encoded: %22%7B%5C%22Sp_id%5C%22:%5B3%5D,%5C%22Order_id%5C%22:51,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22
+INFO: 2015/12/03 14:06:44 pubnub.go:3102: url: http://pubsub.pubnub.com/publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:%5B3%5D,%5C%22Order_id%5C%22:51,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=c45cd59040a443c2805b440c883ada83
+INFO: 2015/12/03 14:06:44 pubnub.go:3224: non subscribeConn set
+INFO: 2015/12/03 14:06:44 pubnub.go:3346: opaqueURL /publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:%5B3%5D,%5C%22Order_id%5C%22:51,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=c45cd59040a443c2805b440c883ada83
+INFO: 2015/12/03 14:06:44 pubnub.go:3347: response: [1,"Sent","14491264057867518"]
+INFO: 2015/12/03 14:32:11 pubnub.go:369: ****************************************
+INFO: 2015/12/03 14:32:11 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/03 14:32:11 pubnub.go:321: OS: windows
+INFO: 2015/12/03 14:32:11 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/03 14:32:11 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 14:32:11 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 14:34:14 pubnub.go:369: ****************************************
+INFO: 2015/12/03 14:34:14 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/03 14:34:14 pubnub.go:321: OS: windows
+INFO: 2015/12/03 14:34:14 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/03 14:34:14 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 14:34:14 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 14:36:19 pubnub.go:369: ****************************************
+INFO: 2015/12/03 14:36:19 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/03 14:36:19 pubnub.go:321: OS: windows
+INFO: 2015/12/03 14:36:19 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/03 14:36:19 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 14:36:19 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 14:36:23 pubnub.go:960: Publish: json: "{\"Sp_id\":null,\"Order_id\":52,\"Cust_name\":\"Keira Knightley\",\"Start_time\":\"2015-10-03 10:00:52\",\"Finish_time\":\"2015-10-03 11:00:52\",\"Cust_phone\":\"081123123123\",\"Address\":\"Jln XYZ, inputan user\",\"Order_detail\":\"Hair Coloring - Dye color by MATRIX:Dark Red(Kode99833)\",\"Special_note\":\"Rambut saya agak kribo, tapi pingin di ribonding\",\"Estimated_price\":500000,\"Payment_method\":1}", encoded: %22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:52,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22
+INFO: 2015/12/03 14:36:23 pubnub.go:3102: url: http://pubsub.pubnub.com/publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:52,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=150e52bb406bb52b8049af3e7938946f
+INFO: 2015/12/03 14:36:23 pubnub.go:3273: MaxIdleConnsPerHost set to: 20
+INFO: 2015/12/03 14:36:23 pubnub.go:3224: non subscribeConn set
+INFO: 2015/12/03 14:36:23 pubnub.go:3346: opaqueURL /publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:52,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=150e52bb406bb52b8049af3e7938946f
+INFO: 2015/12/03 14:36:23 pubnub.go:3347: response: [1,"Sent","14491281861589067"]
+INFO: 2015/12/03 14:37:24 pubnub.go:369: ****************************************
+INFO: 2015/12/03 14:37:24 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/03 14:37:24 pubnub.go:321: OS: windows
+INFO: 2015/12/03 14:37:24 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/03 14:37:24 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 14:37:24 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 14:38:17 pubnub.go:369: ****************************************
+INFO: 2015/12/03 14:38:17 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/03 14:38:17 pubnub.go:321: OS: windows
+INFO: 2015/12/03 14:38:17 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/03 14:38:17 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 14:38:17 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 14:52:10 pubnub.go:369: ****************************************
+INFO: 2015/12/03 14:52:10 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/03 14:52:10 pubnub.go:321: OS: windows
+INFO: 2015/12/03 14:52:10 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/03 14:52:10 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 14:52:10 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 14:53:08 pubnub.go:369: ****************************************
+INFO: 2015/12/03 14:53:08 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/03 14:53:08 pubnub.go:321: OS: windows
+INFO: 2015/12/03 14:53:08 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/03 14:53:08 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 14:53:08 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 14:58:16 pubnub.go:369: ****************************************
+INFO: 2015/12/03 14:58:16 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/03 14:58:16 pubnub.go:321: OS: windows
+INFO: 2015/12/03 14:58:16 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/03 14:58:16 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 14:58:16 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 15:07:39 pubnub.go:369: ****************************************
+INFO: 2015/12/03 15:07:39 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/03 15:07:39 pubnub.go:321: OS: windows
+INFO: 2015/12/03 15:07:39 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/03 15:07:39 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 15:07:39 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 15:10:05 pubnub.go:369: ****************************************
+INFO: 2015/12/03 15:10:05 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/03 15:10:05 pubnub.go:321: OS: windows
+INFO: 2015/12/03 15:10:05 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/03 15:10:05 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 15:10:05 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 15:13:09 pubnub.go:369: ****************************************
+INFO: 2015/12/03 15:13:09 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/03 15:13:09 pubnub.go:321: OS: windows
+INFO: 2015/12/03 15:13:09 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/03 15:13:09 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 15:13:09 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 15:17:11 pubnub.go:369: ****************************************
+INFO: 2015/12/03 15:17:11 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/03 15:17:11 pubnub.go:321: OS: windows
+INFO: 2015/12/03 15:17:11 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/03 15:17:11 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 15:17:11 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 15:17:38 pubnub.go:960: Publish: json: "{\"Sp_id\":[3],\"Order_id\":53,\"Cust_name\":\"Keira Knightley\",\"Start_time\":\"2015-10-03 10:00:52\",\"Finish_time\":\"2015-10-03 11:00:52\",\"Cust_phone\":\"081123123123\",\"Address\":\"Jln XYZ, inputan user\",\"Order_detail\":\"Hair Coloring - Dye color by MATRIX:Dark Red(Kode99833)\",\"Special_note\":\"Rambut saya agak kribo, tapi pingin di ribonding\",\"Estimated_price\":500000,\"Payment_method\":1}", encoded: %22%7B%5C%22Sp_id%5C%22:%5B3%5D,%5C%22Order_id%5C%22:53,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22
+INFO: 2015/12/03 15:17:38 pubnub.go:3102: url: http://pubsub.pubnub.com/publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:%5B3%5D,%5C%22Order_id%5C%22:53,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=c244764540e1cb7b80836d56afef1d8d
+INFO: 2015/12/03 15:17:38 pubnub.go:3273: MaxIdleConnsPerHost set to: 20
+INFO: 2015/12/03 15:17:38 pubnub.go:3224: non subscribeConn set
+INFO: 2015/12/03 15:17:39 pubnub.go:3346: opaqueURL /publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:%5B3%5D,%5C%22Order_id%5C%22:53,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=c244764540e1cb7b80836d56afef1d8d
+INFO: 2015/12/03 15:17:39 pubnub.go:3347: response: [1,"Sent","14491306615257925"]
+INFO: 2015/12/03 15:41:28 pubnub.go:369: ****************************************
+INFO: 2015/12/03 15:41:28 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/03 15:41:28 pubnub.go:321: OS: windows
+INFO: 2015/12/03 15:41:28 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/03 15:41:28 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 15:41:28 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 19:31:11 pubnub.go:369: ****************************************
+INFO: 2015/12/03 19:31:11 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/03 19:31:11 pubnub.go:321: OS: windows
+INFO: 2015/12/03 19:31:11 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/03 19:31:11 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 19:31:11 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 21:42:06 pubnub.go:369: ****************************************
+INFO: 2015/12/03 21:42:06 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/03 21:42:06 pubnub.go:321: OS: windows
+INFO: 2015/12/03 21:42:06 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/03 21:42:06 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 21:42:06 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 22:06:41 pubnub.go:369: ****************************************
+INFO: 2015/12/03 22:06:41 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/03 22:06:41 pubnub.go:321: OS: windows
+INFO: 2015/12/03 22:06:41 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/03 22:06:41 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 22:06:41 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 22:31:57 pubnub.go:369: ****************************************
+INFO: 2015/12/03 22:31:57 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/03 22:31:57 pubnub.go:321: OS: windows
+INFO: 2015/12/03 22:31:57 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/03 22:31:57 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 22:31:57 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 22:35:13 pubnub.go:369: ****************************************
+INFO: 2015/12/03 22:35:13 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/03 22:35:13 pubnub.go:321: OS: windows
+INFO: 2015/12/03 22:35:13 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/03 22:35:13 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 22:35:13 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 22:35:58 pubnub.go:369: ****************************************
+INFO: 2015/12/03 22:35:58 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/03 22:35:58 pubnub.go:321: OS: windows
+INFO: 2015/12/03 22:35:58 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/03 22:35:58 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 22:35:58 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 22:36:01 pubnub.go:960: Publish: json: "{\"Sp_id\":null,\"Order_id\":54,\"Cust_name\":\"Keira Knightley\",\"Start_time\":\"2015-10-03 10:00:52\",\"Finish_time\":\"2015-10-03 11:00:52\",\"Cust_phone\":\"081123123123\",\"Address\":\"Jln XYZ, inputan user\",\"Order_detail\":\"Hair Coloring - Dye color by MATRIX:Dark Red(Kode99833)\",\"Special_note\":\"Rambut saya agak kribo, tapi pingin di ribonding\",\"Estimated_price\":500000,\"Payment_method\":1}", encoded: %22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:54,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22
+INFO: 2015/12/03 22:36:01 pubnub.go:3102: url: http://pubsub.pubnub.com/publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:54,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=f36d3de540e1207f80cee6cc0373fef3
+INFO: 2015/12/03 22:36:01 pubnub.go:3273: MaxIdleConnsPerHost set to: 20
+INFO: 2015/12/03 22:36:02 pubnub.go:3224: non subscribeConn set
+INFO: 2015/12/03 22:36:02 pubnub.go:3346: opaqueURL /publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:54,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=f36d3de540e1207f80cee6cc0373fef3
+INFO: 2015/12/03 22:36:02 pubnub.go:3347: response: [1,"Sent","14491569628875132"]
+INFO: 2015/12/03 22:37:16 pubnub.go:369: ****************************************
+INFO: 2015/12/03 22:37:16 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/03 22:37:16 pubnub.go:321: OS: windows
+INFO: 2015/12/03 22:37:16 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/03 22:37:16 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 22:37:16 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 23:33:47 pubnub.go:369: ****************************************
+INFO: 2015/12/03 23:33:47 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/03 23:33:47 pubnub.go:321: OS: windows
+INFO: 2015/12/03 23:33:47 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/03 23:33:47 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/03 23:33:47 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/04 00:00:39 pubnub.go:369: ****************************************
+INFO: 2015/12/04 00:00:39 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/04 00:00:39 pubnub.go:321: OS: windows
+INFO: 2015/12/04 00:00:39 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/04 00:00:39 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/04 00:00:39 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/04 00:02:04 pubnub.go:369: ****************************************
+INFO: 2015/12/04 00:02:04 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/04 00:02:04 pubnub.go:321: OS: windows
+INFO: 2015/12/04 00:02:04 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/04 00:02:04 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/04 00:02:04 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/04 01:02:56 pubnub.go:369: ****************************************
+INFO: 2015/12/04 01:02:56 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/04 01:02:56 pubnub.go:321: OS: windows
+INFO: 2015/12/04 01:02:56 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/04 01:02:56 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/04 01:02:56 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/04 01:04:58 pubnub.go:369: ****************************************
+INFO: 2015/12/04 01:04:58 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/04 01:04:58 pubnub.go:321: OS: windows
+INFO: 2015/12/04 01:04:58 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/04 01:04:58 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/04 01:04:58 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/04 01:06:31 pubnub.go:369: ****************************************
+INFO: 2015/12/04 01:06:31 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/04 01:06:31 pubnub.go:321: OS: windows
+INFO: 2015/12/04 01:06:31 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/04 01:06:31 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/04 01:06:31 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/04 01:07:29 pubnub.go:369: ****************************************
+INFO: 2015/12/04 01:07:29 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/04 01:07:29 pubnub.go:321: OS: windows
+INFO: 2015/12/04 01:07:29 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/04 01:07:29 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/04 01:07:29 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/04 01:08:42 pubnub.go:369: ****************************************
+INFO: 2015/12/04 01:08:42 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/04 01:08:42 pubnub.go:321: OS: windows
+INFO: 2015/12/04 01:08:42 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/04 01:08:42 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/04 01:08:42 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/04 01:13:49 pubnub.go:369: ****************************************
+INFO: 2015/12/04 01:13:49 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/04 01:13:49 pubnub.go:321: OS: windows
+INFO: 2015/12/04 01:13:49 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/04 01:13:49 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/04 01:13:49 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/04 01:14:55 pubnub.go:369: ****************************************
+INFO: 2015/12/04 01:14:55 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/04 01:14:55 pubnub.go:321: OS: windows
+INFO: 2015/12/04 01:14:55 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/04 01:14:55 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/04 01:14:55 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/04 01:24:42 pubnub.go:960: Publish: json: "{\"Sp_id\":null,\"Order_id\":55,\"Cust_name\":\"Keira Knightley\",\"Start_time\":\"2015-10-03 10:00:52\",\"Finish_time\":\"2015-10-03 11:00:52\",\"Cust_phone\":\"081123123123\",\"Address\":\"Jln XYZ, inputan user\",\"Order_detail\":\"Hair Coloring - Dye color by MATRIX:Dark Red(Kode99833)\",\"Special_note\":\"Rambut saya agak kribo, tapi pingin di ribonding\",\"Estimated_price\":500000,\"Payment_method\":1}", encoded: %22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:55,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22
+INFO: 2015/12/04 01:24:42 pubnub.go:3102: url: http://pubsub.pubnub.com/publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:55,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=77d81f1b400ed71f8027f93855a9a061
+INFO: 2015/12/04 01:24:42 pubnub.go:3273: MaxIdleConnsPerHost set to: 20
+INFO: 2015/12/04 01:24:42 pubnub.go:3224: non subscribeConn set
+INFO: 2015/12/04 01:24:43 pubnub.go:3346: opaqueURL /publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:55,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=77d81f1b400ed71f8027f93855a9a061
+INFO: 2015/12/04 01:24:43 pubnub.go:3347: response: [1,"Sent","14491670840996098"]
+INFO: 2015/12/04 01:26:13 pubnub.go:369: ****************************************
+INFO: 2015/12/04 01:26:13 pubnub.go:320: Pubnub Init, PubNub Go client SDK Version: 3.6.4; Build Date: Nov 6, 2015;
+INFO: 2015/12/04 01:26:13 pubnub.go:321: OS: windows
+INFO: 2015/12/04 01:26:13 pubnub.go:350: Origin: http://pubsub.pubnub.com
+INFO: 2015/12/04 01:26:13 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/04 01:26:13 pubnub.go:1602: Breaking out of presence heartbeat loop
+INFO: 2015/12/04 01:26:34 pubnub.go:960: Publish: json: "{\"Sp_id\":null,\"Order_id\":56,\"Cust_name\":\"Keira Knightley\",\"Start_time\":\"2015-10-03 10:00:52\",\"Finish_time\":\"2015-10-03 11:00:52\",\"Cust_phone\":\"081123123123\",\"Address\":\"Jln XYZ, inputan user\",\"Order_detail\":\"Hair Coloring - Dye color by MATRIX:Dark Red(Kode99833)\",\"Special_note\":\"Rambut saya agak kribo, tapi pingin di ribonding\",\"Estimated_price\":500000,\"Payment_method\":1}", encoded: %22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:56,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22
+INFO: 2015/12/04 01:26:34 pubnub.go:3102: url: http://pubsub.pubnub.com/publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:56,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=2d963a854090963480fe80ed84ece957
+INFO: 2015/12/04 01:26:34 pubnub.go:3273: MaxIdleConnsPerHost set to: 20
+INFO: 2015/12/04 01:26:34 pubnub.go:3224: non subscribeConn set
+INFO: 2015/12/04 01:26:34 pubnub.go:3346: opaqueURL /publish/pub-c-7611f067-063e-4ac9-be68-0fae6470e1d9/sub-c-8fbbe094-98e7-11e5-b0f3-02ee2ddab7fe/0/golife.wgs.channel/0/%22%7B%5C%22Sp_id%5C%22:null,%5C%22Order_id%5C%22:56,%5C%22Cust_name%5C%22:%5C%22Keira%20Knightley%5C%22,%5C%22Start_time%5C%22:%5C%222015-10-03%2010:00:52%5C%22,%5C%22Finish_time%5C%22:%5C%222015-10-03%2011:00:52%5C%22,%5C%22Cust_phone%5C%22:%5C%22081123123123%5C%22,%5C%22Address%5C%22:%5C%22Jln%20XYZ,%20inputan%20user%5C%22,%5C%22Order_detail%5C%22:%5C%22Hair%20Coloring%20-%20Dye%20color%20by%20MATRIX:Dark%20Red%28Kode99833%29%5C%22,%5C%22Special_note%5C%22:%5C%22Rambut%20saya%20agak%20kribo,%20tapi%20pingin%20di%20ribonding%5C%22,%5C%22Estimated_price%5C%22:500000,%5C%22Payment_method%5C%22:1%7D%22?pnsdk=PubNub-Go%2F3.6.3&uuid=2d963a854090963480fe80ed84ece957
+INFO: 2015/12/04 01:26:34 pubnub.go:3347: response: [1,"Sent","14491671957324643"]
